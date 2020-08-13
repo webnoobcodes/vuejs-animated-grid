@@ -6,9 +6,17 @@ Grid animation in Vue JS with Transitions on-page load. This is a staggering ani
 
 [![Tutorial on Youtube](http://img.youtube.com/vi/GGBojjSr_1A/0.jpg)](https://youtu.be/GGBojjSr_1A)
 
-## 📺 The Complete Playlist
+## 📺 Complete Playlists
 
 [Learn Vue JS - From The Ground Up](https://www.youtube.com/playlist?list=PLINmvGGUwYc3fsN0ba_ZSZE0ywDeS0cd2)
+
+[Learn Vue JS - Additional Libaries](https://www.youtube.com/playlist?list=PLINmvGGUwYc0KrI3N11BCzflF6lEXqR9M)
+
+[Best Vue JS Tips and Tricks](https://www.youtube.com/playlist?list=PLINmvGGUwYc1GHkWFayyTLJXlnssHQEPc)
+
+[Vue JS Animations and Transitions](https://www.youtube.com/playlist?list=PLINmvGGUwYc1qRSE4LMjReEULDE1pa-mS)
+
+[Learn Nuxt JS - From The Ground Up](https://www.youtube.com/playlist?list=PLINmvGGUwYc11ZniENQRU7eQar6gQo04R)
 
 ## Connect with me:
 
